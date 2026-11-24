@@ -192,18 +192,18 @@ namespace C_Ass2
 
             #region Question12
 
-               /*
-                Given string[] books = { "Clean Code", 
-               "The Pragmatic Programmer", "Refactoring" };, use a for loop
-                to print each book with its position number, like 1. Clean Code.   
-                */
+            /*
+             Given string[] books = { "Clean Code", 
+            "The Pragmatic Programmer", "Refactoring" };, use a for loop
+             to print each book with its position number, like 1. Clean Code.   
+             */
 
-               //string[] books = {"Clean Code",
-               //"The Pragmatic Programmer", "Refactoring" };
-               // for (int i = 0; i < books.Length; i++)
-               // {
-               // Console.WriteLine($"{i+1}. {books[i]}");
-               // }
+            //string[] books = {"Clean Code",
+            //"The Pragmatic Programmer", "Refactoring" };
+            // for (int i = 0; i < books.Length; i++)
+            // {
+            // Console.WriteLine($"{i+1}. {books[i]}");
+            // }
 
 
 
@@ -211,7 +211,25 @@ namespace C_Ass2
 
             #endregion
 
+            #region Question13
+            /*
+             Using the same books array, use a while loop to print every book title.
+        
+             */
 
-    }
+            //string[] books = {"Clean Code",
+            //"The Pragmatic Programmer", "Refactoring" };
+            //int count = 0;
+            //while (count<books.Length)
+            //{
+
+            //    Console.WriteLine($"{count + 1}. {books[count]}");
+            //    count++;
+            //}
+
+            #endregion
+
+
+        }
     }
 }
