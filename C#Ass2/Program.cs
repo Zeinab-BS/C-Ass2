@@ -43,6 +43,24 @@ namespace C_Ass2
 
             #endregion
 
+            #region Question4
+            /*
+            Using the StringBuilder from the question above, 
+            use Replace() to change "Book List" into "Library".
+            Print the result.
+            */
+            //StringBuilder sb = new StringBuilder();
+            //sb.Append("Book List");
+            //sb.Append(" - Updated");
+            //sb.Replace("Book List", "Library");
+            //Console.WriteLine(sb);
+
+
+
+
+
+            #endregion
+
 
         }
     }
