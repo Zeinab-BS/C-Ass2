@@ -313,6 +313,31 @@ namespace C_Ass2
             #endregion
 
 
+            #region Question18
+            /*
+             Write a method PrintFirstBook() that prints the first book in the books array.
+            If the array is empty,use return to exit the method early instead of printing anything.  
+             */
+            PrintFirstBook();
+            #endregion
+
+
         }
+
+        static void PrintFirstBook()
+        {
+            string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+
+            if (books.Length == 0)
+            {
+                return;
+            }
+            else
+            {
+                Console.WriteLine(books[0]);
+                
+            }
+
+        }   
     }
 }
