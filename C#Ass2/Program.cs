@@ -15,6 +15,17 @@
             //Console.WriteLine(upperTitle); 
             #endregion
 
+            #region Question2
+            /*
+             Declare two separate string variables, both set to the literal "Clean Code". Use ReferenceEquals()
+             to check if they point to the same object in memory. 
+             */
+            //string s1 = "Clean Code";
+            //string s2 = "Clean Code";
+            //Console.WriteLine(object.ReferenceEquals(s1, s2));// true 
+
+
+            #endregion
 
 
 
