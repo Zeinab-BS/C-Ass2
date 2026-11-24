@@ -89,6 +89,18 @@ namespace C_Ass2
 
             #endregion
 
+            #region Question7
+
+            /*
+             Build the same sentence again, but using string.Format().
+            */
+            //string title = "Clean Code";
+            //int Pages = 464;
+            //Console.WriteLine(string.Format("Book: {0} ", title));
+            //Console.WriteLine(string.Format("Pages: {0} ", Pages));
+
+            #endregion
+
 
         }
     }
