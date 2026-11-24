@@ -229,6 +229,23 @@ namespace C_Ass2
 
             #endregion
 
+            #region Question14
+            //Write a do-while loop that prints "Checking book..." exactly 3 times.
+
+            //int count = 0;
+            //do
+            //{
+
+            //    Console.WriteLine("Checking book...");//1 2 3
+            //    count++;//2 3
+
+            //} while (count<3);
+
+
+
+
+            #endregion
+
 
         }
     }
