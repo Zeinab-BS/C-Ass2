@@ -79,6 +79,16 @@ namespace C_Ass2
 
             #endregion
 
+            #region Question6
+
+            //string title = "Clean Code";
+            //int Pages = 464;
+            //Console.WriteLine($"Book: {title}");
+            //Console.WriteLine($"Pages: {Pages}");
+
+
+            #endregion
+
 
         }
     }
