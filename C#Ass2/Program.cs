@@ -285,6 +285,33 @@ namespace C_Ass2
 
             #endregion
 
+            #region Question17
+            /*
+             Using the same books array, print every title except 
+            "The Pragmatic Programmer" (skip it with
+             continue, don't stop the loop)    
+             */
+
+            //string[] books = {"Clean Code",
+            //"The Pragmatic Programmer", "Refactoring" };
+
+            //for (int i = 0; i < books.Length; i++)
+            //{
+            //    if (books[i] == "The Pragmatic Programmer")
+            //    {
+            //        continue;
+            //    }
+
+            //    else
+            //    {
+            //        Console.WriteLine(books[i]);
+            //    }
+            //}
+
+
+
+            #endregion
+
 
         }
     }
