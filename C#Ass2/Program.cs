@@ -258,6 +258,33 @@ namespace C_Ass2
 
             #endregion
 
+            #region Question16
+            /*
+             Using the same books array, loop through it and print each title,
+             but stop completely (break) once
+             you reach "Refactoring".
+            */
+
+            //string[] books = {"Clean Code",
+            //"The Pragmatic Programmer", "Refactoring" };
+
+            //for(int i=0;i< books.Length; i++)
+            //{
+            //   if(books[i] == "Refactoring")
+            //    {
+            //        break;
+            //    }
+
+            //    else
+            //    {
+            //        Console.WriteLine(books[i]);
+            //    }
+            //}
+
+
+
+            #endregion
+
 
         }
     }
